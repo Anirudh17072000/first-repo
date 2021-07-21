@@ -1,0 +1,17 @@
+.box{
+    margin: 30px;
+    padding: 10px;
+    border:solid black;
+}
+#div1
+{
+background-color: blue;
+}
+#div2
+{
+background-color: lightskyblue;
+}
+#div3
+{
+background-color: darkkhaki;
+}
